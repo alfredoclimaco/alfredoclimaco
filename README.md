@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Alfredo Neto 👋</h1>
+<p align="center">
+  <strong>Network & Security Engineer transitioning to DevOps</strong><br/>
+  Turning 8+ years of infrastructure & security expertise into DevSecOps pipelines
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/alfredoclimaco">
+    <img src="https://img.shields.io/badge/LinkedIn-alfredoclimaco-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-00f5a0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Brazil-009c3b?style=flat-square" />
+</p>
+🧭 About Me
+I'm a Network & Security Analyst with 6–10 years of hands-on experience in enterprise infrastructure, now building deep expertise in DevOps and cloud-native practices.
+My background gives me a unique perspective: I don't just build pipelines — I build secure pipelines. Security isn't a layer I add on top; it's how I think from the start.
 
-<!--
-**alfredoclimaco/alfredoclimaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔁 Currently: Transitioning into DevOps / DevSecOps
+🌱 Learning: Docker · AWS · Terraform · CI/CD · Kubernetes
+🎯 Goal: First DevOps/DevSecOps role with a security-first mindset
+🤝 Open to: Collaborations, feedback on projects, and networking
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Security Background
+Areas where I've built real-world experience over the years:
+         Domain                                 Experience 
+🔥Firewall / IDS / IPS             Policy design, tuning, incident response
+🔐VPN / Zero Trust                 Site-to-site, remote access, ZTNA architecture
+📊Monitoring / SIEM                Log correlation, alerting, threat detection
+🌐Routing / Switching              BGP, OSPF, VLANs, enterprise networks
+📋Compliance                       ISO 27001, security audits, risk assessment
+
+⚙️ Tech Stack
+Currently using / learning:
+
+
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alfredoclimaco&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoclimaco&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <em>"Security is not a feature — it's a foundation."</em><br/>
+  <sub>Always learning. Always building. Open to connect. 🤝</sub>
+</p>
