@@ -22,15 +22,16 @@ My background gives me a unique perspective: I don't just build pipelines — I 
 
 🛡️ Security Background
 Areas where I've built real-world experience over the years:
-         Domain                                 Experience 
-🔥Firewall / IDS / IPS             Policy design, tuning, incident response
-🔐VPN / Zero Trust                 Site-to-site, remote access, ZTNA architecture
-📊Monitoring / SIEM                Log correlation, alerting, threat detection
-🌐Routing / Switching              BGP, OSPF, VLANs, enterprise networks
-📋Compliance                       ISO 27001, security audits, risk assessment
-
+                                       
+Domain: 🔥Firewall / IDS / IPS  - 🔐VPN / Zero Trust - 📊Monitoring / SIEM - 🌐Routing / Switching - 📋Compliance          Policy design, tuning, incident response
+                 
+Experience: Site-to-site, remote access, ZTNA architecture - BGP, OSPF, VLANs, enterprise networks - ISO 27001, security audits, risk assessment - Log correlation, alerting, threat detection
+              
+                
 ⚙️ Tech Stack
 Currently using / learning:
+
+
 
 
 
