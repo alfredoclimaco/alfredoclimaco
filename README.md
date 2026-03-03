@@ -41,9 +41,10 @@ Highlight: Container scanning & rootless config - Security gates in every stage 
           📚 Certifications Roadmap
 
  ☁️ AWS Cloud Practitioner (CLF-C02) — in progress
+ 
  🏗️ HashiCorp Terraform Associate
+ 
  ☸️ CKA — Certified Kubernetes Administrator
-
 
 
 
