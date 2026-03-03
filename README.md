@@ -20,16 +20,29 @@ My background gives me a unique perspective: I don't just build pipelines — I 
 🤝 Open to: Collaborations, feedback on projects, and networking
 
 
-🛡️ Security Background
+          🛡️ Security Background
+          
 Areas where I've built real-world experience over the years:
                                        
 Domain: 🔥Firewall / IDS / IPS  - 🔐VPN / Zero Trust - 📊Monitoring / SIEM - 🌐Routing / Switching - 📋Compliance          Policy design, tuning, incident response
                  
 Experience: Site-to-site, remote access, ZTNA architecture - BGP, OSPF, VLANs, enterprise networks - ISO 27001, security audits, risk assessment - Log correlation, alerting, threat detection
               
-                
-⚙️ Tech Stack
-Currently using / learning:
+          🚀 DevOps Projects
+
+Portfolio being built — each project intentionally combines DevOps practices with a security layer.
+
+Project: 🐳 Docker Lab + Security Hardening - ⚙️ DevSecOps CI/CD Pipeline - ☁️ AWS Infrastructure as Code - 📊 Observability Stack
+
+Stack: Docker · Trivy · Compose - GitHub Actions · SAST · Semgrep - Terraform · VPC · IAM - Prometheus · Grafana · Loki 
+
+Highlight: Container scanning & rootless config - Security gates in every stage - Least-privilege network design - Infra metrics + security logging
+ 
+          📚 Certifications Roadmap
+
+ ☁️ AWS Cloud Practitioner (CLF-C02) — in progress
+ 🏗️ HashiCorp Terraform Associate
+ ☸️ CKA — Certified Kubernetes Administrator
 
 
 
